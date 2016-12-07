@@ -1,0 +1,9 @@
+{
+    "name": "root/libraries",
+    "autoload": {
+      "psr-0": {"": "src/"}
+    },
+    "require": {
+        "symfony/var-dumper": "^3.2"
+    }
+}
